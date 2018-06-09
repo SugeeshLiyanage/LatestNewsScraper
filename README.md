@@ -1,2 +1,2 @@
-# LatestNewsScraper
-Web app that lets users view and leave comments on the latest news.
+# mongo-scrape-homework-wk18
+repo for week 18 homework,mongodb and scraping
